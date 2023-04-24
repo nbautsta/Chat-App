@@ -17,6 +17,8 @@ Express.js: A web application framework for Node.js.
 
 MongoDB: A NoSQL database that stores user data and chat messages.
 
+React.js: an open-source JavaScript library for building reusable user interface components and efficiently updating the UI when data changes, widely used for building web applications with a large and active community.
+
 Tailwind CSS: A front-end framework for building responsive, mobile-first websites.
 
 ## Installation
