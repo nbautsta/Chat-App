@@ -37,7 +37,7 @@ To install this project, follow these steps:
     "mongoose": "^7.0.4",
     "ws": "^8.13.0"
 
-  CLIENT dependencies:
+    CLIENT dependencies:
     "autoprefixer": "^10.4.14",
     "axios": "^1.3.5",
     "bcryptjs": "^2.4.3",
@@ -49,15 +49,15 @@ To install this project, follow these steps:
 
 3. Create a .env file and add your MongoDB URI and session secret:
 
-  MONGO_URL="mongodb+srv://admin:<password>@clusterbatch248.jeupjjp.mongodb.net/?retryWrites=true&w=majority"
+    `MONGO_URL="mongodb+srv://admin:<password>@clusterbatch248.jeupjjp.mongodb.net/?retryWrites=true&w=majority"
 
-  JWT_SECRET ="chatappapi"
+    JWT_SECRET ="chatappapi"
 
-  CLIENT_URL="http://127.0.0.1:5173"
+    CLIENT_URL="http://127.0.0.1:5173"`
 
 4. Run the project: 
-  api: `nodemon start`
-  client: `yarn dev`
+      api: `nodemon start`
+      client: `yarn dev`
 
 ## Usage
 
